@@ -1,0 +1,11 @@
+order_id,student_id,order_date,amount,status,city,priority
+1,1,2026-10-02,1947.00,shipped,Bhopal,high
+2,2,2026-10-05,898.00,delivered,Mardol,low
+3,3,2026-10-08,1898.00,shipped,Vishakhapatnam,high
+4,4,2026-10-10,799.00,cancelled,Bangalore,none
+5,5,2026-10-12,699.00,shipped,Kolkata,low
+6,6,2026-10-15,1498.00,delivered,Lucknow,low
+7,7,2026-10-18,1898.00,pending,Guwahati,high
+8,8,2026-10-20,1148.00,pending,Kochi,medium
+9,9,2026-10-22,1499.00,delivered,Kochi,low
+10,10,2026-10-25,1797.00,pending,Mumbai,high

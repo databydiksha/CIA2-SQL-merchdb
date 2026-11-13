@@ -1,0 +1,19 @@
+student_id,student_name,city,state,email,age,age_group,phone
+1,"Prachi Sahu",Bhopal,"Madhya Pradesh",prachisahu@gmail.com,27,"25 to 29",98765
+2,"Kashish Pai",Mardol,Goa,kashish.pai@gmail.com,24,"below 25",91234
+3,Anjaneshwari,Vishakhapatnam,"Andhra Pradesh",anjaneshwari@gmail.com,23,"below 25",99887
+4,"Clinton R",Bangalore,Karnataka,clintonr@gmail.com,25,"25 to 29",12344
+5,"Ranit Ghosh",Kolkata,"West Bengal",ranitghoshDADA@gmail.com,33,"30 and above",99857
+6,"Khushi Mathur",Lucknow,"Uttar Pradesh",khushimathur@gmail.com,22,"below 25",99811
+7,"Snigdha Kuri",Guwahati,Assam,snigdha.kuri@gmail.com,24,"below 25",93210
+8,"Nikhil Jiji",Kochi,Kerala,nikhiljiji@gmail.com,26,"25 to 29",99990
+9,"Ritik Albert",Kochi,Kerala,ritikalbert@gmail.com,23,"below 25",34567
+10,"Calvin Joseph",Mumbai,Maharashtra,calvinjoseph@gmail.com,27,"25 to 29",13579
+11,"Alex Abraham",Thrissur,Kerala,alexabraham@gmail.com,30,"30 and above",99817
+12,"Taruni Gopi",Hyderabad,Telangana,tarunigopi@gmail.com,22,"below 25",39887
+13,"Ruth Wilson",Kochi,Kerala,ruthwilson@gmail.com,25,"25 to 29",90087
+14,Balakiran,Chennai,"Tamil Nadu",balakiran@gmail.com,28,"25 to 29",93487
+15,"Anulipi Sarkar",Kolkata,"West Bengal",anulipi.sarkar@gmail.com,23,"below 25",95687
+16,"Atif Khan",Jamshedpur,Jharkhand,atifkhan@gmail.com,24,"below 25",96807
+17,"Kuber Arora",Pune,Maharashtra,kuberarora@gmail.com,26,"25 to 29",93577
+18,"Test User",Delhi,Delhi,prachisahu19@gmail.com,25,NA,NULL
